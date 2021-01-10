@@ -1,7 +1,7 @@
 {
-	"name": "linkedin-clone",
+	"name": "nextjs-redux-toolkit-starter",
 	"version": "1.0.0",
-	"description": "linkedin clone built with next.js and firebase",
+	"description": "Next.js starter with @redux/toolkit, linting and testing configured",
 	"main": "index.js",
 	"scripts": {
 		"dev": "next dev",
